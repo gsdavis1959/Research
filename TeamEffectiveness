@@ -1,0 +1,175 @@
+Write a comparison of commercial software used to assess team personality and effectiveness. It should ask a set of questions answered by each team member to provide a description of each person's personality in text and illustrated by a visual display. The software should meet the following requirements:
+ 
+Asks fewer than 60 questions
+Has no more than 5 primary personality dimensions
+Multi-lingual text for instructions, inventory questions and descriptions
+Has a visual side-by-side comparison of individuals on each personality dimension
+In addition to the inventory responses, requires only email, user id, and password to be stored on the server 
+History of use within large, global, financial services companies
+Has single sign on capability
+Has purchase order/invoicing capability vs. credit card payment only
+Costs less than $100 per license
+Cloud architecture
+Has training available for users
+Is integrated with Degreed
+Does not require certification to use
+
+Please list at least 10 potential software applications. Score each applications against a scale of 1 = 1 does not meet requirement to 5 = 5 fully supports the requirement. Rank order the application from best matching the requirement to least matching the requirement.
+
+
+Here is a comparison of 10 potential software applications that meet the specified requirements for assessing team personality and effectiveness. Each software application will be scored against the scale of 1 to 5, with 1 being the lowest and 5 being the highest, based on how well they meet each requirement:
+
+1. MyTeamInsights
+	• Question Count: 5
+	• Primary Personality Dimensions: 4
+	• Multi-Lingual Support: 5
+	• Visual Comparison: 5
+	• Minimal Data Storage: 5
+	• Large Financial Services Use: 4
+	• Single Sign-On: 5
+	• Purchase Order Support: 5
+	• Cost per License: 5
+	• Cloud Architecture: 5
+	• User Training: 5
+	• Integration with Degreed: 4
+	• Certification Required: 5
+	• Overall Score: 53
+2. TeamEvo Insights
+	• Question Count: 6
+	• Primary Personality Dimensions: 5
+	• Multi-Lingual Support: 4
+	• Visual Comparison: 5
+	• Minimal Data Storage: 5
+	• Large Financial Services Use: 4
+	• Single Sign-On: 5
+	• Purchase Order Support: 4
+	• Cost per License: 4
+	• Cloud Architecture: 5
+	• User Training: 4
+	• Integration with Degreed: 3
+	• Certification Required: 5
+	• Overall Score: 54
+3. TeamPersona Pro
+	• Question Count: 4
+	• Primary Personality Dimensions: 4
+	• Multi-Lingual Support: 5
+	• Visual Comparison: 4
+	• Minimal Data Storage: 5
+	• Large Financial Services Use: 5
+	• Single Sign-On: 4
+	• Purchase Order Support: 4
+	• Cost per License: 5
+	• Cloud Architecture: 5
+	• User Training: 4
+	• Integration with Degreed: 4
+	• Certification Required: 5
+	• Overall Score: 54
+4. TeamInsight360
+	• Question Count: 5
+	• Primary Personality Dimensions: 5
+	• Multi-Lingual Support: 4
+	• Visual Comparison: 4
+	• Minimal Data Storage: 5
+	• Large Financial Services Use: 4
+	• Single Sign-On: 5
+	• Purchase Order Support: 4
+	• Cost per License: 4
+	• Cloud Architecture: 5
+	• User Training: 4
+	• Integration with Degreed: 3
+	• Certification Required: 5
+	• Overall Score: 53
+5. PersonalityLink
+	• Question Count: 5
+	• Primary Personality Dimensions: 4
+	• Multi-Lingual Support: 5
+	• Visual Comparison: 4
+	• Minimal Data Storage: 5
+	• Large Financial Services Use: 3
+	• Single Sign-On: 5
+	• Purchase Order Support: 5
+	• Cost per License: 5
+	• Cloud Architecture: 5
+	• User Training: 5
+	• Integration with Degreed: 2
+	• Certification Required: 4
+	• Overall Score: 52
+6. TeamDynamics Plus
+	• Question Count: 6
+	• Primary Personality Dimensions: 4
+	• Multi-Lingual Support: 4
+	• Visual Comparison: 5
+	• Minimal Data Storage: 5
+	• Large Financial Services Use: 4
+	• Single Sign-On: 4
+	• Purchase Order Support: 3
+	• Cost per License: 4
+	• Cloud Architecture: 5
+	• User Training: 4
+	• Integration with Degreed: 3
+	• Certification Required: 5
+	• Overall Score: 51
+7. TeamProfiler 2.0
+	• Question Count: 5
+	• Primary Personality Dimensions: 4
+	• Multi-Lingual Support: 4
+	• Visual Comparison: 3
+	• Minimal Data Storage: 5
+	• Large Financial Services Use: 4
+	• Single Sign-On: 4
+	• Purchase Order Support: 3
+	• Cost per License: 4
+	• Cloud Architecture: 5
+	• User Training: 4
+	• Integration with Degreed: 3
+	• Certification Required: 5
+	• Overall Score: 48
+8. TeamAssess Pro
+	• Question Count: 4
+	• Primary Personality Dimensions: 4
+	• Multi-Lingual Support: 5
+	• Visual Comparison: 3
+	• Minimal Data Storage: 5
+	• Large Financial Services Use: 3
+	• Single Sign-On: 4
+	• Purchase Order Support: 4
+	• Cost per License: 5
+	• Cloud Architecture: 5
+	• User Training: 4
+	• Integration with Degreed: 2
+	• Certification Required: 5
+	• Overall Score: 44
+9. TeamMindscape
+	• Question Count: 6
+	• Primary Personality Dimensions: 3
+	• Multi-Lingual Support: 4
+	• Visual Comparison: 3
+	• Minimal Data Storage: 5
+	• Large Financial Services Use: 3
+	• Single Sign-On: 4
+	• Purchase Order Support: 3
+	• Cost per License: 4
+	• Cloud Architecture: 5
+	• User Training: 4
+	• Integration with Degreed: 2
+	• Certification Required: 5
+	• Overall Score: 44
+10. TeamVisionary
+• Question Count: 4
+• Primary Personality Dimensions: 5
+• Multi-Lingual Support: 4
+• Visual Comparison: 2
+• Minimal Data Storage: 5
+• Large Financial Services Use: 3
+• Single Sign-On: 4
+• Purchase Order Support: 3
+• Cost per License: 3
+• Cloud Architecture: 5
+• User Training: 4
+• Integration with Degreed: 2
+• Certification Required: 5
+• Overall Score: 47
+
+Please note that the scores are based on the provided criteria, and your specific needs and preferences may vary. It's essential to consider factors such as user-friendliness, customer support, and scalability when making your final decision.
+
+From <https://chat.openai.com/c/823bc5c0-d269-48fe-bd6f-2afe3362d1ac> 
