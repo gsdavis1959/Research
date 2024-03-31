@@ -16,7 +16,11 @@ https://colab.research.google.com/drive/1PEQyJO1-f6j0S_XJ8DV50NkpzasXkrzd?usp=sh
 https://www.infoworld.com/article/3705035/5-easy-ways-to-run-an-llm-locally.amp.html
 https://github.com/simonw/llm-llama-cpp
 https://github.com/ggerganov/llama.cpp?tab=readme-ov-file#openblas
+llama-cpp-python settings
 
+set CMAKE_ARGS=-DLLAMA_CUBLAS=on
+set FORCE_CMAKE=1
+pip install llama-cpp-python
 
 
 
