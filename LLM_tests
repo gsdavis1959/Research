@@ -1,0 +1,54 @@
+Baseline ChatGPT4
+
+Write five learning objectives to measure the most relevant knowledge and skills in a course to improve critical thinking. Two of the learning objectives should measure knowledge. Three of the learning objectives should measure skill. Include the conditions, behavior, and measurement in the learning objective.
+
+
+Learning objectives are crucial for setting clear expectations in a course, guiding both instruction and assessment. Here are five learning objectives specifically designed for a course on improving critical thinking, with two focused on measuring knowledge and three on measuring skills:
+
+1. **Knowledge Objective (Understanding Concepts):**
+   - **Condition:** After completing the module on logical fallacies,
+   - **Behavior:** the learner will be able to identify and describe
+   - **Measurement:** at least five common logical fallacies from given examples with 90% accuracy.
+
+2. **Knowledge Objective (Theoretical Understanding):**
+   - **Condition:** At the end of the course,
+   - **Behavior:** the learner will be able to explain
+   - **Measurement:** the principles of sound reasoning and how they apply to constructing arguments, as assessed through a written examination where they must achieve a score of at least 85%.
+
+3. **Skill Objective (Application of Knowledge):**
+   - **Condition:** Given a set of diverse viewpoints in a classroom discussion,
+   - **Behavior:** the learner will demonstrate the ability to apply critical thinking skills by analyzing arguments,
+   - **Measurement:** distinguishing between facts and opinions, and justifying their perspectives, culminating in a peer-reviewed critique session where they must receive a satisfactory rating on at least 80% of the provided criteria.
+
+4. **Skill Objective (Problem-Solving):**
+   - **Condition:** When presented with a complex real-world problem in a case study,
+   - **Behavior:** the learner will apply critical thinking techniques to identify underlying assumptions, evaluate alternatives, and
+   - **Measurement:** propose a well-reasoned solution, which will be assessed through a scoring rubric where a score of 4 out of 5 or better must be achieved for the clarity and logic of the reasoning.
+
+5. **Skill Objective (Critical Analysis):**
+   - **Condition:** Using scholarly articles on a controversial topic,
+   - **Behavior:** the learner will critically assess the strength of the evidence and arguments presented,
+   - **Measurement:** and synthesize a coherent evaluation in a written report, graded for depth of analysis and adherence to academic standards of argumentation, achieving at least a 'B' grade.
+
+These objectives ensure a balance between theoretical knowledge and practical application, pivotal for enhancing critical thinking capabilities in a structured learning environment.
+
+
+Nous-Hermes-2-Mistral-7B-DPO.Q4_0.gguf
+
+TDM 520: Improving Critical Thinking Skills
+Learning Objective #1 (Knowledge): By the end of this course, students will be able to identify at least five different types of logical fallacies commonly used in everyday conversations and arguments. Students will demonstrate their knowledge by participating in class discussions and identifying these fallacies during group activities.
+Conditions: The instructor will provide examples of common logical fallacies and ask students to identify them.
+Behavior: Students will be able to accurately identify five different types of logical fallacies when presented with an argument or statement.
+Measurement: A quiz or exam will assess the student's ability to recognize these fallacies in written form.
+
+Learning Objective #2 (Knowledge): By the end of this course, students will be able to define and explain the concept of critical thinking as it relates to problem-solving and decision making. Students will demonstrate their knowledge by participating in class discussions and writing a short essay on the topic.
+Conditions: The instructor will provide a definition of critical thinking and ask students to discuss its importance in various contexts.
+Behavior: Students will be able to define critical thinking, explain how it relates to problem-solving and decision making, and give examples of when it is important.
+Measurement: A quiz or exam will assess the student's ability to accurately define and explain critical thinking.
+
+Learning Objective #3 (Skill): By the end of this course, students will be able to analyze a complex problem or issue using multiple perspectives and identify potential solutions. Students will demonstrate their skill by participating in group activities that require them to analyze a case study from different angles.
+Conditions: The instructor will provide a case study and ask students to work in groups to analyze it from various perspectives.
+Behavior: Students will be able to analyze a complex problem or issue using multiple perspectives, identify potential solutions, and explain why each solution is effective or ineffective.
+Measurement: Group activities and assignments will assess the student's ability to analyze a case study from different angles and identify potential solutions.
+
+Learning Objective #4 (Skill): By the end of this course, students will be able to evaluate arguments critically by identifying assumptions, logical connections, and evidence presented in support of those arguments. Students will demonstrate their skill by participating in class discussions
